@@ -1,8 +1,8 @@
 # Control panel for Yandex 360 (ex Connect) api 
-[![GitHub issues](https://img.shields.io/github/issues/TSUKER/wireguard-install)](https://github.com/TSUKER/yaapi/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TSUKER/wireguard-install)](https://github.com/TSUKER/yaapi/network)
-[![GitHub stars](https://img.shields.io/github/stars/TSUKER/wireguard-install)](https://github.com/TSUKER/yaapi/stargazers)
-[![GitHub license](https://img.shields.io/github/license/TSUKER/wireguard-install)](https://github.com/TSUKER/yaapi)
+[![GitHub issues](https://img.shields.io/github/issues/TSUKER/yaapi)](https://github.com/TSUKER/yaapi/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TSUKER/yaapi)](https://github.com/TSUKER/yaapi/network)
+[![GitHub stars](https://img.shields.io/github/stars/TSUKER/yaapi)](https://github.com/TSUKER/yaapi/stargazers)
+[![GitHub license](https://img.shields.io/github/license/TSUKER/yaapi)](https://github.com/TSUKER/yaapi)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TSUKER.yaapi)
 
 ## Requirements
