@@ -1,0 +1,23 @@
+{
+  "name": "si/yandexconnectapi",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "AShumko",
+      "email": "a.shumko@dcdn.xyz",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php-http/guzzle6-adapter": "^1.1",
+    "php-http/message": "^1.7",
+    "nette/database": "^3",
+    "fakerphp/faker": "^1.12",
+    "guzzlehttp/guzzle": "^6.5",
+    "fusionauth/fusionauth-client": "^1.23",
+    "paragonie/cookie": "^3.2",
+    "elephpant/cookie": "^1.0"
+  }
+}
